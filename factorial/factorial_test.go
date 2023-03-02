@@ -16,6 +16,7 @@ func TestUnitFactorial(t *testing.T) {
 			{1, 1},
 			{2, 2},
 			{4, 24},
+			{69,420},
 		}
 
 	for _, test := range tests {
